@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Sanku Banner" width="100%">
-</p>
 
-<br>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
